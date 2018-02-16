@@ -1,0 +1,1 @@
+Options and how to use this plugin is in index.js
