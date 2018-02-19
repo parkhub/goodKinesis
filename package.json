@@ -1,6 +1,6 @@
 {
-  "name": "@fliko/good-kinesis",
-  "version": "1.0.2",
+  "name": "@parkhub/good-kinesis",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,9 @@
     "assert": "^1.4.1",
     "aws-sdk": "^2.196.0",
     "stream": "0.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parkhub/goodKinesis.git"
   }
 }
